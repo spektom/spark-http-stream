@@ -17,7 +17,7 @@ To build Spark application jar, run:
     
 ## Running
 
-First, run some dummy multi-threaded Web server that listens on port 8080.
+First, run some dummy multi-threaded Web server that listens on port 8000.
 
 Then, submit the application jar using the following command:
  
